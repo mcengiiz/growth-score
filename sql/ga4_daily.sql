@@ -1,0 +1,1 @@
+-- (yukarıdaki GA4 sorgusu)
